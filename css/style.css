@@ -11,4 +11,8 @@ selector {
 
 /* Type Selector */
 
-p {
+p { /* select all <p> */
+    font-size: 1em; /* 16px, ?pt, 100%, 1em */
+    
+  
+}
