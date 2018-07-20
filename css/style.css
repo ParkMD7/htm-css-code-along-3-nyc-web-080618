@@ -45,6 +45,6 @@ figcaption {
 
 /* ID Selector (apply to one unique element per page) */
 
-#logo { /* select ID with class="milk-text" */
-  
+#logo { /* select elements with ID="logo" */
+  background: aqua;
 }
