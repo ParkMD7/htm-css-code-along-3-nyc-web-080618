@@ -12,6 +12,8 @@ selector {
 
 */
 
+
+
 /* Type Selector */
 
 p { /* select all <p> */
@@ -29,4 +31,10 @@ figcaption {
   text-align: right;
 }
 
+
+
 /* Class Selector (as many elements as you'd like) */
+
+.milk-text { /* select elements with class="milk-text" */
+  
+}
